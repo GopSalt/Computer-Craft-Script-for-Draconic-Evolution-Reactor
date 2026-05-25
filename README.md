@@ -21,7 +21,7 @@ To run these scripts, you will need **Advanced Computers** and **Ender Modems**.
 2. Connect the following to the computer's network (via modems/cables): **Ender Modem**, the **Reactor** itself, **2x Flow Gates** (Input and Output), and **2x Energy Pylons** (one for Main Storage, one as a UPS buffer for the shields).
 3. Open the computer terminal and run:
    ```bash
-   pastebin run kZWZCE5a
+   pastebin run kZWZCE5a startup
    ```
 4. The script will download the necessary files. Follow the on-screen prompts to assign your Pylons (Main and Buffer) and Flow Gates.
 
@@ -30,7 +30,7 @@ To run these scripts, you will need **Advanced Computers** and **Ender Modems**.
 2. Attach an **Ender Modem** and connect an **Advanced Monitor** (ideal size: 3 blocks wide, 2 blocks high).
 3. Open the computer terminal and run:
    ```bash
-   pastebin run 5afcy4Y0
+   pastebin run 5afcy4Y0 startup
    ```
 4. Done! The script will launch and instantly sync with the reactor, displaying the dashboard.
 
